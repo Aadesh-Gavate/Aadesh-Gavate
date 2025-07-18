@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Aadesh Gavate from Pune<br><br>- 🔭 I’m working as Network Engineer at Wipro<br>- 📚 I'm AWS Certified Solutions Architect- Associate.</p>
+<p align="left">I'm Aadesh Gavate from Pune.<br><br>- 🔭 I’m working as Network Engineer at Wipro.<br>- 📚 I'm AWS Certified Solutions Architect- Associate.</p>
 
 ###
 
